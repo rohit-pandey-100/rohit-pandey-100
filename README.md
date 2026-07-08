@@ -39,7 +39,6 @@
 - 💬 Ask me about **Core Java, Oracle SQL, HTML, CSS, and Web Development**
 - 📫 Reach me at **krohit30965@gmail.com**
 - ⚡ Fun fact: **I enjoy coding, gaming, and creating YouTube videos**
-- 📫 How to reach me **krohit30965@gmail.com**
 - ⚡ Fun fact **I create youtube videos**
 
 <!-- Add a working dev gif here -->
