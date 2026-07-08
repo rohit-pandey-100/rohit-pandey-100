@@ -137,9 +137,9 @@
     <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="60" height="60" /></a> -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
+    <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="60" height="60" /></a>
+            alt="mongodb" width="60" height="60" /></a> -->
     <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="60" height="60" /></a> -->
@@ -152,6 +152,35 @@
     <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="60" height="60" /></a> -->
+            <!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        alt="java"
+        width="60"
+        height="60"
+    />
+</a>
+
+<!-- Oracle -->
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+        alt="oracle"
+        width="60"
+        height="60"
+    />
+</a>
+
+<!-- PL/SQL -->
+<a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+        alt="plsql"
+        width="60"
+        height="60"
+    />
+</a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="60" height="60" /></a>
