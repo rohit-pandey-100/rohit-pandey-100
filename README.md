@@ -195,40 +195,6 @@
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="220"
             alt="Rohit Pandey" /></a></p><br><br>
 
-
-            <h2 align="left">🛠️ Languages and Technologies</h2>
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-     alt="Java" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-     alt="HTML" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-     alt="CSS" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-     alt="JavaScript" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-     alt="Oracle" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-     alt="React" width="50" height="50"/>
-
-</p>
-
-<h2 align="left">📊 Most Used Languages</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-pandey-100&layout=compact&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
-
 <!-- Add bottom gif -->
 <p align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/developer-dribbble.gif"
